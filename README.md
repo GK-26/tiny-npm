@@ -8,7 +8,7 @@ $ npm install @0_srsk/tiny
 
 # Usage
 
-const tiny = require("@bamblehorse/tiny");
+const tiny = require("@0_srsk/tiny");
 
 tiny("So much space!");
 //=> "Somuchspace!"
